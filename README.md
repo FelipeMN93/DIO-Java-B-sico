@@ -1,2 +1,2 @@
-# DIO-Java-B-sico
+# DIO-Java-Básico
 Repositório para armazenar o conteúdo do bootcamp da Claro
